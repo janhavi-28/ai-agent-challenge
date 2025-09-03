@@ -63,7 +63,7 @@ And generate:
 
 custom_parsers/icici_parser.py
 
-5. **Run tests
+5. **Run tests**
    pytest -q
    
 
